@@ -9,7 +9,7 @@ char   c = 'A';
 bool   ok = true;
 
 
-string intAsString = 42.ToString();               
+string intAsString = 20.ToString();               
 double doubleFromString = double.Parse("3.14");    
 
 

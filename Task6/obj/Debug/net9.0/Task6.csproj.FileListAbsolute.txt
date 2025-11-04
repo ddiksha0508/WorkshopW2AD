@@ -12,3 +12,4 @@ D:\AD\work\Task6\obj\Debug\net9.0\refint\Task6.dll
 D:\AD\work\Task6\obj\Debug\net9.0\Task6.pdb
 D:\AD\work\Task6\obj\Debug\net9.0\Task6.genruntimeconfig.cache
 D:\AD\work\Task6\obj\Debug\net9.0\ref\Task6.dll
+D:\AD\work\Task6\obj\Debug\net9.0\Task6.sourcelink.json

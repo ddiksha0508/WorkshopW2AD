@@ -1,4 +1,4 @@
-﻿int[] fav = { 9, 5, 7, 3, 4 };
+﻿int[] fav = { 8 , 32, 7, 15, 4 };
 Array.Sort(fav);
 Console.WriteLine("Sort");
 foreach (int a in fav)

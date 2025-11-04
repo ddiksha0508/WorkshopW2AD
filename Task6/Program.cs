@@ -1,14 +1,14 @@
-﻿List<string> fruits = new List<string> { "Apple", "Banana", "Mango" };
+﻿List<string> fruits = new List<string> { "Apple", "Avocado", "Apricot" };
 
-fruits.Add("Orange");
-Console.WriteLine("Fruits List after adding:");
+fruits.Add("Banana");
+Console.WriteLine("Fruits list after adding :");
 foreach (string fruit in fruits)
 {
     Console.WriteLine(fruit);
 }
 
-fruits.Remove("Banana");
-Console.WriteLine("\nFruits List after removing:");
+fruits.Remove("Apricot");
+Console.WriteLine("\n Fruits list after removing:");
 foreach (string fruit in fruits)
 {
     Console.WriteLine(fruit);
@@ -22,10 +22,10 @@ foreach (string fruit in fruits)
 Dictionary<int, string> fruitDict = new Dictionary<int, string>
 {
     { 1, "Apple" },
-    { 2, "Mango" },
-    { 3, "Orange" }
+    { 2, "Avocado" },
+    { 3, "Banana" }
 };
-fruitDict.Add(4, "Grapes");
+fruitDict.Add(4, "Kiwi");
 
 Console.WriteLine("\nFruits Dictionary:");
 foreach (KeyValuePair<int, string> entry in fruitDict)
